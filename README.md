@@ -13,3 +13,6 @@ features :
       </li>
     </ul>
 </li>
+<li>
+    Redux Configured
+</li>
